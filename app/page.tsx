@@ -63,7 +63,7 @@ export default function Home() {
   return (
     <main className={styles.container}>
       <header className={styles.header}>
-        <h1 className={styles.title}>AI Resume Analyzer</h1>
+        <h1 className={styles.title}>AI Resume Analyser</h1>
         <p className={styles.subtitle}>
           Get an instant ATS score and tailored job search links. (No data is saved)
         </p>
